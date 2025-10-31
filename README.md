@@ -1,5 +1,3 @@
-Here’s a polished and professional **GitHub project description** you can include in your repository’s **README.md** file for your Address Book project:
-
 ---
 
 # 📇 Address Book in C
