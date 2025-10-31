@@ -1,11 +1,5 @@
 ---
-# 📇 Address Book in C
 
-**Author:** Dhanush G
-**Email:** [dhanug846@gmail.com](mailto:dhanug846@gmail.com)
-**Organization:** Emertxe Information Technologies
-
----
 
 ## 📝 Project Overview
 
@@ -45,6 +39,12 @@ This project demonstrates strong understanding of **C programming fundamentals**
 ---
 
 ## 📧 Contact
+
+**Author:** Dhanunjay G
+**Email:** [dhanug846@gmail.com](mailto:dhanug846@gmail.com)
+**Organization:** Emertxe Information Technologies
+
+---
 
 For any queries or suggestions, feel free to reach out:
 **📩 [dhanug846@gmail.com](mailto:dhanug846@gmail.com)**
